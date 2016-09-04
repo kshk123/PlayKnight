@@ -23,11 +23,23 @@ Once both sets of inputs are validated, the game begins.
 The movements of both the knights are displayed side by side as <row,column> .
 A sample output is shown below.
 
-Player 1 moves        Player 2 moves
-    a 5                   d 4
-    c 6                   f 5
-    e 7                   h 6
-    g 6                   f 7
+Player 1 moves        
+    a 5
+    c 6
+    e 7
+    g 6
+
+
+Player 2 moves
+
+    d 4
+    
+    f 5
+    
+    h 6
+    
+    f 7
+    
 
 
 The Knight that reaches the destination <h,8> first is declared as the winner.
