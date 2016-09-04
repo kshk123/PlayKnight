@@ -25,10 +25,13 @@ A sample output is shown below.
 
 Player 1 moves        
     a 5
+    
     c 6
+    
     e 7
+    
     g 6
-
+    
 
 Player 2 moves
 
