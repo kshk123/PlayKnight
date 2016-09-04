@@ -24,6 +24,7 @@ The movements of both the knights are displayed side by side as <row,column> .
 A sample output is shown below.
 
 Player 1 moves        
+
     a 5
     
     c 6
